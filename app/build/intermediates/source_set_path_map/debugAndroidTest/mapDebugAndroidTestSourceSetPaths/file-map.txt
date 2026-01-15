@@ -1,0 +1,4 @@
+com.meifei.app.test.app-androidTest-0 H:\MeiFei\APP-main\app\build\generated\res\resValues\androidTest\debug
+com.meifei.app.test.app-mergeDebugAndroidTestResources-1 H:\MeiFei\APP-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.meifei.app.test.app-mergeDebugAndroidTestResources-2 H:\MeiFei\APP-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.meifei.app.test.app-debugAndroidTest-3 H:\MeiFei\APP-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
