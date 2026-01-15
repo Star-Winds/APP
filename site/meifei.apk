@@ -1,0 +1,4 @@
+This is a placeholder APK file.
+Please build the app and replace this file using the provided scripts:
+- ./site/package_apk.sh
+- ./site/package_apk.ps1
